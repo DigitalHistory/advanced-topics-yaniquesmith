@@ -57,13 +57,12 @@ var myGeoJSON= {
     }
     var triangleCoords = [
       {lat: 48.42934, lng: -123.36169},
-     {lat: 48.43014, lng: -123.36943},
-     {lat: 48.42911, lng: -123.36965},
-     {lat: 48.42809, lng: -123.37021},
-     {lat: 48.42712, lng: -123.36205},
-     {lat: 48.42706, lng: -123.36167},
-     {lat: 48.42934, lng: -123.36169}
-     //final co-ord is same as first co-ord!
+ {lat: 48.43014, lng: -123.36943},
+ {lat: 48.42911, lng: -123.36965},
+ {lat: 48.42809, lng: -123.37021},
+ {lat: 48.42712, lng: -123.36205},
+ {lat: 48.42706, lng: -123.36167},
+ {lat: 48.42934, lng: -123.36169} //final co-ord is same as first co-ord!
     ];
     // Construct the polygon.
     var bermudaTriangle = new google.maps.Polygon({
@@ -152,7 +151,7 @@ function initializeMap() {
          map: my_map,
          icon: blueURL, // this sets the image that represents the marker in the map
          title: "Rock Bay School",
-         window_content: "<p>Rock Bay School: This had been the public school most Chinese children had been attending in the early twentieth century in Victoria before being majority of the Chinese children began to be restricted entrance </p>"
+         window_content: "<p>Rock Bay School: This had been the public school Chinese children had been attending in the early twentieth century in Victoria before being restricted entrance in 1907. </p>"
        },
 
             ];
