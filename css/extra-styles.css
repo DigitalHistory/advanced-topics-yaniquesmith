@@ -137,8 +137,23 @@ div.gm-style-iw blockquote {
 #popcorn-container {
    border: 4px solid #aa0000;
    width: 425px;
-   height: 640px;
+   height: 240px;
    overflow: scroll;
    background-color: #F4F4F4;
    padding: 10px;
+}
+
+#popcorn-container img{
+max-width: 100%;
+
+}
+
+img {
+  width:400px;
+  height:220px;
+}
+
+text{
+  width:400px;
+  height:220px;  
 }
