@@ -4,7 +4,7 @@
               </div>
             </div>
 
-Sonia May Malkine had lived under the oppressive regime of the Nazi Germany and Vichy Government collaboration in France from 1940 - 1944. In an interview, Malkine discusses her perception of how the French resistance and German occupation developed in the France and how it had impacted her fellow citizens and herself living under the Nazi Germany and Vichy Government regime. This essay further indulges in the happenings of the war, and expands upon Malkine's sentiments that the French resistance was a bottom-up movement that originating from the citizens and moving outwardly to receive external assistance.
+Sonia May Malkine had lived under the oppressive regime of the Nazi Germany and Vichy Government collaboration in France from 1940 - 1944. In an interview, Malkine discusses her perception of how the French resistance and German occupation developed in the France and how it had impacted her fellow citizens and herself living under the Nazi Germany and Vichy Government regime. This essay further indulges in the happenings of the war, and expands upon Malkine's sentiments that the French resistance was a bottom-up movement that originating from the citizens and moving outwardly to receive external assistance. 
 
 
 
