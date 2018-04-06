@@ -48,8 +48,8 @@ Additionally, the early resistance was most influenced by the breaching of the G
 <img src="http://crowleyhistory12.weebly.com/uploads/1/3/5/8/13583995/505718467.jpg" height="300" width="350"/> <img src="http://i47.photobucket.com/albums/f167/Lisa_Simpson/1941/June/0622/0622-badfaitha.jpg" height = "300" width="350"/>
 <blockquote style="fonts-">
 
-<p style="font-size: 13px"> Left Image: America joins the war, will join the allies. </p>
-<p style="font-size: 13px"> Right Image: Pearl Harbor Attack
+<p style="font-size: 13px"> Left Image: Staliin shaking hands with a German official at the signing of the German and Russian Nazi-Soviet Non-Aggression Pact of 1939</p>
+<p style="font-size: 13px"> Right Image: Report that reveals Hitler breaking the Pact in 1941, just two years after the alliance.
 </p>
  </blockquote>
 
